@@ -4,9 +4,9 @@
 Everything is stored/written in one file to keep it simple when moving to another directory.
 
 **Example 1:**
-![enter image description here](https://raw.githubusercontent.com/Zuk3y/simple_dirscanner/main/Demo%201.png?token=GHSAT0AAAAAABSHRSXH7AT3OK5WPXVVXDP2YRG3LTQ)
+![Demo 1](https://github.com/Zuk3y/simple_dirscanner/blob/main/Demo%201.png?raw=true)
 **Example 2:**
-![enter image description here](https://raw.githubusercontent.com/Zuk3y/simple_dirscanner/main/Demo%202.png?token=GHSAT0AAAAAABSHRSXHANOEAUUYKJBNXEJCYRG3L7A)
+![Demo 2](https://github.com/Zuk3y/simple_dirscanner/blob/main/Demo%202.png?raw=true)
 
 # Instalation
 - Place the **index.php** file in the directory you want to be scanned
