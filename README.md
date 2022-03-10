@@ -10,7 +10,7 @@ Everything is stored/written in one file to keep it simple when moving to anothe
 
 # Instalation
 - Place the **index.php** file in the directory you want to be scanned
-	- eg.  Raspberry Pi: `/var/www/html`
+	- eg. `/var/www/html`
 - In **index.php**, change the following variables:
 	- $main_url
 	- $whitlisted_folders
